@@ -23,4 +23,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: gbxyz/planet:latest
+          tags: jodrell/planet:latest
